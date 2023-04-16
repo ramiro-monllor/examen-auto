@@ -13,10 +13,10 @@ export const Home = () => {
         <div className={styles.contTitle}>
           <h1 className={styles.title}>Test de conducción Vial 🚗</h1>
         </div>
-        <div className={styles.contLink}>
+        {/* <div className={styles.contLink}>
           <a style={{textDecoration:"none",color:"white"}} href="https://www.linkedin.com/in/ramiro-monllor/">Ramiro<img src="https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681614677/linkedin_bbpfar.png" alt="logo linkedin" width="14" height="14" className={styles.imgLinkedin}/></a>
           <a style={{textDecoration:"none",color:"white"}} href="https://www.linkedin.com/in/facundo-monllor/">Facundo<img src="https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681614677/linkedin_bbpfar.png" alt="logo linkedin" width="14" height="14" className={styles.imgLinkedin}/></a>
-        </div>
+        </div> */}
       </div>
 
         <div className={styles.separador}></div>

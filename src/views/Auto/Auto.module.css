@@ -85,7 +85,6 @@
     margin:0;
     font-weight: 400;
     /* font-family: 'Heebo', sans-serif; */
-    /* font-family: 'Heebo', sans-serif; */
     font-family: 'Poppins', sans-serif;
 }
 
@@ -95,7 +94,14 @@
     /* font-family: 'Heebo', sans-serif; */
     font-family: 'Poppins', sans-serif;
     border-bottom: 2px solid rgb(29, 131, 255);
+    text-align: center;
 }
+
+@media (max-width: 800px) {
+    .contAnswer h2 {
+        font-size: 23px;
+    }
+  }
 
 .divImagenes1{
     display: flex;
@@ -123,6 +129,28 @@
     cursor: pointer;
     filter: drop-shadow(4px 4px 13px rgba(255, 255, 255, 0.4));
 }
+
+@media (max-width: 800px) {
+    .contImage {
+        height: 40%;
+        width: 40%;
+    }
+    .imgSeñal{
+        height: 45%;
+        width: 45%;
+    }
+  }
+
+@media (max-width: 600px) {
+    .contImage {
+        height: 50%;
+        width: 50%;
+    }
+    .imgSeñal{
+        height: 55%;
+        width: 55%;
+    }
+  }
 
 .divBottomNext{
     display: flex;
@@ -211,4 +239,39 @@
     align-items: center;
     flex-direction: column;
     /* text-align: center; */
+  }
+
+  .divRespuestas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .divRespuestas h1{
+    color: rgb(255, 255, 255);
+    margin-bottom: 3px;
+    font-size: 50px;
+    font-weight: 600;
+    font-style: italic;
+  }
+
+  .divRespuestas > h2{
+    color: #99d98c;
+    font-size: 30px;
+  }
+
+  .homeButton2{
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    width: 20vh;
+    height: 11vh;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color: #fff;
+    background-color: #71baff;
+    font-size: 30px;
+    font-weight: 500;
+    cursor: pointer;
   }

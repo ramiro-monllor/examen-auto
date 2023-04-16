@@ -5,7 +5,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    flex-direction: row;
     height: 10vh;
     background-color: #1b1b1b;
     width: 100%;
@@ -15,3 +15,28 @@
 .footer h5 {
     margin: 0;
 }
+
+.contCredits{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+}
+
+.contLink{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 10%;
+}
+
+@media (max-width: 800px) {
+    .contCredits {
+        width: 75%;
+    }
+    .contLink{
+        width: 25%;
+    }
+  }

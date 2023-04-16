@@ -22,6 +22,7 @@ export const Auto = () => {
   const [adivino, setAdivino] = useState(false)
   const [activeReglamento, setActiveReglamento] = useState(preventivas)
   const [respuestasCorrectas, setRespuestasCorrectas] = useState(0)
+  const [mostrarBoton, setMostrarBoton] = useState(false)
 
   const reglamentos = [preventivas, reglamentarias, informativas, transitorias, agentes]
 
@@ -54,7 +55,7 @@ export const Auto = () => {
 const playStart = (reglamento) => {
   setStart(!start)
   setAnswer(reglamento[numeritos[randomPregunta()]].name)
-  setContador(1)
+  setContador(0)
 }
 
 const sumarContador = (reglamento) => {
@@ -81,16 +82,17 @@ const randomReglament  = () => {
   setActiveReglamento(
     reglamentos[reglamentoNumber]
   )
-  rellenarNumeritos(activeReglamento)
+  rellenarNumeritos(reglamentos[reglamentoNumber])
   console.log(reglamentoNumber)
   console.log(activeReglamento)
 }
 
 
 useEffect(() => {
-  // randomReglament()
+  randomReglament()
   rellenarNumeritos(activeReglamento)
   setTimeout(() => {
+    setMostrarBoton(true)
     console.log(numeritos)
   }, 2000);
 }, [])
@@ -139,35 +141,56 @@ const style = {
         </div>
 
       </div>
-
-        <div className={styles.contAnswer}>
-          <h3>Seleccione la señal que haga referencia a :</h3>
-          <h2>
-            {
-              answer!= ""? answer : <div className={styles.customLoader}></div>
-            }
-          </h2>
-        </div> 
+        
+        {
+          contador < 40 ?
+          (
+            <div className={styles.contAnswer}>
+              <h3>Seleccione la señal que haga referencia a :</h3>
+              <h2>
+                {
+                  answer!= ""? answer : <div className={styles.customLoader}></div>
+                }
+              </h2>
+            </div> 
+          ) : null
+        }
         {/* <button onClick={() => randomReglament()}>consooologgg</button> */}
 
 
         {
-          start ? (
-            <div className={styles.contStart}>
-              <button className={styles.startButton} onClick={() => playStart(activeReglamento)}>Empezar</button>
+
+          contador < 40 ?
+          (
+            start ? (
+              <div className={styles.contStart}>
+                {
+                  mostrarBoton ? <button className={styles.startButton} onClick={() => playStart(activeReglamento)}>Empezar</button> : <div className={styles.customLoader}></div>
+                }
+              </div>
+              ):(
+              <div className={styles.divImagenes1}>
+                <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[0]].image} alt={activeReglamento[numeritos[0]].name} onClick={handleData}/></div>
+                <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[1]].image} alt={activeReglamento[numeritos[1]].name} onClick={handleData}/></div>
+                <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[2]].image} alt={activeReglamento[numeritos[2]].name} onClick={handleData}/></div>
+                <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[3]].image} alt={activeReglamento[numeritos[3]].name} onClick={handleData}/></div>
+                <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[4]].image} alt={activeReglamento[numeritos[4]].name} onClick={handleData}/></div>
+                <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[5]].image} alt={activeReglamento[numeritos[5]].name} onClick={handleData}/></div>
+                <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[6]].image} alt={activeReglamento[numeritos[6]].name} onClick={handleData}/></div>
+                <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[7]].image} alt={activeReglamento[numeritos[7]].name} onClick={handleData}/></div>
+              </div>
+              ) 
+          ) : (
+            <div className={styles.divRespuestas}>
+              <h1>¡Has finalizado el examen!</h1>
+              <h2>Tuviste {respuestasCorrectas} respuestas correctas</h2>
+              <Link to="/">
+                <button className={styles.homeButton2}>Home </button>
+              </Link>
             </div>
-            ):(
-            <div className={styles.divImagenes1}>
-              <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[0]].image} alt={activeReglamento[numeritos[0]].name} onClick={handleData}/></div>
-              <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[1]].image} alt={activeReglamento[numeritos[1]].name} onClick={handleData}/></div>
-              <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[2]].image} alt={activeReglamento[numeritos[2]].name} onClick={handleData}/></div>
-              <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[3]].image} alt={activeReglamento[numeritos[3]].name} onClick={handleData}/></div>
-              <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[4]].image} alt={activeReglamento[numeritos[4]].name} onClick={handleData}/></div>
-              <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[5]].image} alt={activeReglamento[numeritos[5]].name} onClick={handleData}/></div>
-              <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[6]].image} alt={activeReglamento[numeritos[6]].name} onClick={handleData}/></div>
-              <div className={styles.contImage}><img className={styles.imgSeñal} src={activeReglamento[numeritos[7]].image} alt={activeReglamento[numeritos[7]].name} onClick={handleData}/></div>
-            </div>
-            ) 
+          )
+
+
           }
 
         
@@ -194,7 +217,7 @@ const style = {
 
       
 
-        {/* <Footer /> */}
+        <Footer />
     </div>
   )
 }
