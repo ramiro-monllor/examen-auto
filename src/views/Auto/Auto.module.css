@@ -108,6 +108,7 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    margin-bottom: 100px;
     /* width: 70vh; */
 }
 

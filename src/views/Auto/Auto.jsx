@@ -54,7 +54,7 @@ export const Auto = () => {
 
 const playStart = (reglamento) => {
   setStart(!start)
-  setAnswer(reglamento[numeritos[randomPregunta()]].name)
+  setAnswer(preventivas[numeritos[randomPregunta()]].name)
   setContador(0)
 }
 
@@ -89,7 +89,7 @@ const randomReglament  = () => {
 
 
 useEffect(() => {
-  randomReglament()
+  // randomReglament()
   rellenarNumeritos(activeReglamento)
   setTimeout(() => {
     setMostrarBoton(true)
@@ -119,7 +119,7 @@ const style = {
   
 
   return (
-    <div style={{display: "flex", justifyContent: "center", flexDirection: "column"}}>
+    <div style={{display: "flex", justifyContent: "center", flexDirection: "column", height: "100%"}}>
 
       <div className={styles.divTop}>
 
