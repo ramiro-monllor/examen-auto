@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Calle o carretera en construcción",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/155_onvskh.png"
+    },
+    {
+        "name": "Desvío",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/156_vurzqh.png"
+    },
+    {
+        "name": "Longitud de la construcción",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/157_sj6kgd.png"
+    },
+    {
+        "name": "Fin de construcción",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/158_r1onct.png"
+    },
+    {
+        "name": "Zona de explosivo",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626479/se%C3%B1ales/transitorias/159_z056bd.png"
+    },
+    {
+        "name": "Carretera de un solo carril",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626479/se%C3%B1ales/transitorias/160_hwvfrk.png"
+    },
+    {
+        "name": "Hombres trabajando sobre banquina",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626479/se%C3%B1ales/transitorias/161_bs105a.png"
+    },
+    {
+        "name": "Hombres trabajando",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626479/se%C3%B1ales/transitorias/162_xxowom.png"
+    },
+    {
+        "name": "Banderillero",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/163_vvfpoa.png"
+    },
+    {
+        "name": "Calzada estrecha",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/164_rpxnxw.png"
+    },
+    {
+        "name": "Equipo pesado en la vía",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/165_qajzpf.png"
+    },
+    {
+        "name": "Vallas (tipo 1)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/166_xem1ia.png"
+    },
+    {
+        "name": "Vallas (tipo 2)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/167_zlejf0.png"
+    },
+    {
+        "name": "Vallas (tipo 3)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/168_gmpcra.png"
+    },
+    {
+        "name": "Delineadores",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/169_fzbo2a.png"
+    },
+    {
+        "name": "Tambores",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/170_htkg33.png"
+    },
+    {
+        "name": "Conos",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/171_yjfqot.png"
+    }
+]

@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&family=Poppins:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200;300&family=Poppins:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400&family=Poppins:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&family=Poppins:wght@400;500;600&display=swap');
+
+
+.divTop{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 8px;
+}
+
+.homeButton{
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color: #fff;
+    background-color: #8da9c4;
+    font-size: 14px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+.divContadores{
+    display: flex;
+    flex-direction: column;
+}
+
+.divTopContador{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 40px;
+    /* border: 2px solid red; */
+}
+
+.divTopContador > h1 {
+    /* color: #a2d2ff; */
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 5px;
+    margin-bottom: 0;
+    /* margin: 0; */
+}
+
+.divTopContador > h2 {
+    /* color: #a2d2ff; */
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+}
+
+.h1UNO{
+    color: #a2d2ff;
+}
+
+.h1DOS{
+    color: #457b9d;
+}
+
+.h2UNO{
+    color: #a2ffd2;
+}
+
+.h2DOS{
+    color: #459d51;
+}
+
+.contAnswer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.contAnswer h3 {
+    font-style: italic;
+    font-weight: 400;
+    font-size: 25px;
+    margin:0;
+    font-weight: 400;
+    /* font-family: 'Heebo', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+}
+
+.contAnswer h2 {
+    font-size: 30px;
+    font-weight: 600;
+    /* font-family: 'Heebo', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+    border-bottom: 2px solid rgb(29, 131, 255);
+}
+
+.divImagenes1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* width: 70vh; */
+}
+
+
+.contImage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0px solid red;
+    height: 25%;
+    width: 25%;
+    /* cursor: pointer; */
+    margin-bottom: 2%;
+}
+
+.imgSeñal{
+    height: 40%;
+    width: 40%;
+    cursor: pointer;
+    filter: drop-shadow(4px 4px 13px rgba(255, 255, 255, 0.4));
+}
+
+.divBottomNext{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 40px;
+}
+
+.submitButton{
+    /* width: 100%; */
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color: #fff;
+    background-color: #8da9c4;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.contStart{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.startButton{
+    /* width: 100%; */
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color: #fff;
+    background-color: #99d98c;
+    font-size: 32px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.submitButton:hover{
+    background-color: #13315c;
+}
+
+
+.divCustomLoader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.customLoader {
+    width: 50px;
+    height: 50px;
+    display: grid;
+}
+.customLoader::before,
+.customLoader::after {    
+    content:"";
+    grid-area: 1/1;
+    --c: radial-gradient(farthest-side,#766DF4 92%,#0000);
+    background: 
+      var(--c) 50%  0, 
+      var(--c) 50%  100%, 
+      var(--c) 100% 50%, 
+      var(--c) 0    50%;
+    background-size: 12px 12px;
+    background-repeat: no-repeat;
+    animation: s2 1s infinite;
+}
+.customLoader::before {
+  margin:4px;
+  filter:hue-rotate(45deg);
+  background-size: 8px 8px;
+  animation-timing-function: linear
+}
+
+@keyframes s2{ 
+  100%{transform: rotate(.5turn)}
+}
+
+.divModal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* text-align: center; */
+  }

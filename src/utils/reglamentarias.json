@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Paso a nivel con o sin barrera",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626433/se%C3%B1ales/reglamentarias/49_xrnydr.png"
+    },
+    {
+        "name": "Panel de prevención (a 100m)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626433/se%C3%B1ales/reglamentarias/50_ma71vc.png"
+    },
+    {
+        "name": "Panel de prevención (a 200m)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626433/se%C3%B1ales/reglamentarias/51_hvmpwx.png"
+    },
+    {
+        "name": "Panel de prevención (a 300m)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626433/se%C3%B1ales/reglamentarias/52_fqj1kv.png"
+    },
+    {
+        "name": "Panel de prevención de obstáculo rigido",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626433/se%C3%B1ales/reglamentarias/53_l8qkpj.png"
+    },
+    {
+        "name": "Atención",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626434/se%C3%B1ales/reglamentarias/54_ouu0nc.png"
+    },
+    {
+        "name": "Senda de peatones",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626434/se%C3%B1ales/reglamentarias/55_par4rn.png"
+    },
+    {
+        "name": "Panel de prevención de curva",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626434/se%C3%B1ales/reglamentarias/56_wc197e.png"
+    },
+    {
+        "name": "Fin de prevención (derrumbes)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626434/se%C3%B1ales/reglamentarias/57_z1be07.png"
+    },
+    {
+        "name": "Cruz de San Andrés (hasta 2 vias ferreas)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626434/se%C3%B1ales/reglamentarias/58_scgyil.png"
+    },
+    {
+        "name": "Cruz de San Andrés (hay más de 2 vias ferreas)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626434/se%C3%B1ales/reglamentarias/59_n58jmb.png"
+    },
+    {
+        "name": "Prohibido el cambio de carril",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626434/se%C3%B1ales/reglamentarias/60_qlh3n3.png"
+    },
+    {
+        "name": "Detención obligatoria",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626434/se%C3%B1ales/reglamentarias/61_ylrbmg.png"
+    },
+    {
+        "name": "No avanzar",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626434/se%C3%B1ales/reglamentarias/62_lylgss.png"
+    },
+    {
+        "name": "Prohibido girar a la izquierda",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626434/se%C3%B1ales/reglamentarias/63_lwjo2e.png"
+    },
+    {
+        "name": "Prohibido girar en U",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/64_xeapnq.png"
+    },
+    {
+        "name": "Contramano",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626434/se%C3%B1ales/reglamentarias/65_cadwz7.png"
+    },
+    {
+        "name": "Ceda el paso",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626434/se%C3%B1ales/reglamentarias/66_otl0yx.png"
+    },
+    {
+        "name": "Prohibido tocar bocina",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/67_uguj32.png"
+    },
+    {
+        "name": "Prohibido estacionar",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/68_inyfcn.png"
+    },
+    {
+        "name": "Prohibido estacionar y detenerse",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/69_aavww6.png"
+    },
+    {
+        "name": "Prohibido circular peatones",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/70_st34ad.png"
+    },
+    {
+        "name": "Prohibido circular camiones",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/71_s33sau.png"
+    },
+    {
+        "name": "Prohibido circular automotores",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/72_wmxqda.png"
+    },
+    {
+        "name": "Prohibido circular bicicletas",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/73_ukzjdq.png"
+    },
+    {
+        "name": "Prohibido tracción a sangre",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/74_kjvni8.png"
+    },
+    {
+        "name": "Prohibido adelantar",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/75_fofy4e.png"
+    },
+    {
+        "name": "Conserve su derecha",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/76_kyktpr.png"
+    },
+    {
+        "name": "Carga máxima permitida",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/77_n4oclu.png"
+    },
+    {
+        "name": "Altura máxima permitida",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626435/se%C3%B1ales/reglamentarias/78_audob6.png"
+    },
+    {
+        "name": "Ancho máximo permitido",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/79_kl6hsd.png"
+    },
+    {
+        "name": "Velocidad máxima permitida",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/80_ukkhm0.png"
+    },
+    {
+        "name": "Curva muy peligrosa",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/81_lo7pn9.png"
+    },
+    {
+        "name": "Preferencia de avance",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/82_zpxvmc.png"
+    },
+    {
+        "name": "Giro a la derecha",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/83_sl8pog.png"
+    },
+    {
+        "name": "Giro a la izquieda",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/84_vhaalz.png"
+    },
+    {
+        "name": "Doble circulación",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/85_vhk0q5.png"
+    },
+    {
+        "name": "Circulación obligatoria",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/86_hc2i5g.png"
+    },
+    {
+        "name": "Prohibido pasar sin detenerse",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/87_yoj9gh.png"
+    },
+    {
+        "name": "Prohibido circular máquinas agrícolas",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/88_cvyjm2.png"
+    },
+    {
+        "name": "Circulación obligatoria",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/89_uomifh.png"
+    },
+    {
+        "name": "Paso obligatorio",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/90_du0s3v.png"
+    },
+    {
+        "name": "Paso obligatorio",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626436/se%C3%B1ales/reglamentarias/91_d1evjz.png"
+    },
+    {
+        "name": "Fin de la prescripcion",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626437/se%C3%B1ales/reglamentarias/92_cfrpbv.png"
+    },
+    {
+        "name": "Estacionamiento limitado",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626437/se%C3%B1ales/reglamentarias/93_fv2srx.png"
+    },
+    {
+        "name": "Peatones por la izquieda",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626437/se%C3%B1ales/reglamentarias/94_edv4sm.png"
+    },
+    {
+        "name": "Tránsito pesado a la derecha",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626437/se%C3%B1ales/reglamentarias/95_mejhxw.png"
+    },
+    {
+        "name": "Largo maximo permitido",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626437/se%C3%B1ales/reglamentarias/96_mpo9js.png"
+    },
+    {
+        "name": "Uso obligatorio de cadenas para la nieve",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626437/se%C3%B1ales/reglamentarias/97_dfo56x.png"
+    },
+    {
+        "name": "Circulación exclusiva",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626437/se%C3%B1ales/reglamentarias/98_fqv7kd.png"
+    },
+    {
+        "name": "Velocidad máxima en caso de niebla",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626437/se%C3%B1ales/reglamentarias/99_h7na1r.png"
+    },
+    {
+        "name": "Velocidad máxima en caso de niebla",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626437/se%C3%B1ales/reglamentarias/100_j56y4n.png"
+    },
+    {
+        "name": "Velocidad mínima permitida",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626437/se%C3%B1ales/reglamentarias/101_bnqqgj.png"
+    },
+    {
+        "name": "Circulación exclusiva",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626437/se%C3%B1ales/reglamentarias/102_owqo1m.png"
+    },
+    {
+        "name": "Fin de la prescripcion (ej. Fin de velocidad mín)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626437/se%C3%B1ales/reglamentarias/103_n4ndjm.png"
+    },
+    {
+        "name": "Estacionamiento exclusivo",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626438/se%C3%B1ales/reglamentarias/104_zskubq.png"
+    },
+    {
+        "name": "Circulación obligatoria",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626433/se%C3%B1ales/reglamentarias/105_fvrqnn.png"
+    }
+]

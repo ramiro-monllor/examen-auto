@@ -1,0 +1,196 @@
+[
+    {
+        "name": "Curva peligrosa",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626354/se%C3%B1ales/preventivas/1_edzciw.png"
+    },
+    {
+        "name": "Curva",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626354/se%C3%B1ales/preventivas/2_kghbvw.png"
+    },
+    {
+        "name": "Curva y contracurva",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626354/se%C3%B1ales/preventivas/3_ttfgjc.png"
+    },
+    {
+        "name": "Curva y contracurva menor",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626354/se%C3%B1ales/preventivas/4_ckkmgd.png"
+    },
+    {
+        "name": "Camino sinuoso",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626355/se%C3%B1ales/preventivas/5_xoe25x.png"
+    },
+    {
+        "name": "Doble circulación proxima",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626355/se%C3%B1ales/preventivas/6_tw5jsa.png"
+    },
+    {
+        "name": "Estrechamiento de calzada en una mano",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626355/se%C3%B1ales/preventivas/7_v3ln2i.png"
+    },
+    {
+        "name": "Cruce de Caminos",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626355/se%C3%B1ales/preventivas/8_bomtma.png"
+    },
+    {
+        "name": "Bifurcación en T",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626355/se%C3%B1ales/preventivas/9_xknrpn.png"
+    },
+    {
+        "name": "Bifurcación en Y",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626355/se%C3%B1ales/preventivas/10_hyqfsd.png"
+    },
+    {
+        "name": "Camino Lateral",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626355/se%C3%B1ales/preventivas/11_bcgoqp.png"
+    },
+    {
+        "name": "Camino Lateral",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626355/se%C3%B1ales/preventivas/12_uur1fo.png"
+    },
+    {
+        "name": "Espalmes contrarios sucesivos",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626355/se%C3%B1ales/preventivas/13_hjg3du.png"
+    },
+    {
+        "name": "Ciclista",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626355/se%C3%B1ales/preventivas/14_duysg0.png"
+    },
+    {
+        "name": "Fin de camino dividodo",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626355/se%C3%B1ales/preventivas/15_jyivs9.png"
+    },
+    {
+        "name": "Incorporación de Tránsito",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626355/se%C3%B1ales/preventivas/16_p8wonp.png"
+    },
+    {
+        "name": "Rotonda",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626356/se%C3%B1ales/preventivas/17_e1bzgx.png"
+    },
+    {
+        "name": "Estrechamiento de calzada en dos manos",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626356/se%C3%B1ales/preventivas/18_zew4q2.png"
+    },
+    {
+        "name": "Puente angosto",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626356/se%C3%B1ales/preventivas/19_vdctwo.png"
+    },
+    {
+        "name": "Puente móvil",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626356/se%C3%B1ales/preventivas/20_yepads.png"
+    },
+    {
+        "name": "Viento Lateral Fuerte",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626356/se%C3%B1ales/preventivas/21_fqhxvi.png"
+    },
+    {
+        "name": "Depresión transversal (badén)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626356/se%C3%B1ales/preventivas/22_qp9ju5.png"
+    },
+    {
+        "name": "Elevación transversal",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626356/se%C3%B1ales/preventivas/23_yzierv.png"
+    },
+    {
+        "name": "Tunel vehicular",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626356/se%C3%B1ales/preventivas/24_ezf4mf.png"
+    },
+    {
+        "name": "Calzada Resbaladiza",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626356/se%C3%B1ales/preventivas/25_zxe0lg.png"
+    },
+    {
+        "name": "Zona de derrumbe",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626356/se%C3%B1ales/preventivas/26_kuqtqt.png"
+    },
+    {
+        "name": "Pendiente peligrosa (bajada)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626356/se%C3%B1ales/preventivas/27_ufpofu.png"
+    },
+    {
+        "name": "Pendiente peligrosa (subida)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626356/se%C3%B1ales/preventivas/28_isxq27.png"
+    },
+    {
+        "name": "Obras",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626357/se%C3%B1ales/preventivas/29_uchhyh.png"
+    },
+    {
+        "name": "Precaución Niños jugando",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626357/se%C3%B1ales/preventivas/30_iowra0.png"
+    },
+    {
+        "name": "Cruce de escolares",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626357/se%C3%B1ales/preventivas/31_graowl.png"
+    },
+    {
+        "name": "Cruce de peatones",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626357/se%C3%B1ales/preventivas/32_aovj9g.png"
+    },
+    {
+        "name": "Animales sueltos",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626357/se%C3%B1ales/preventivas/33_ndzyle.png"
+    },
+    {
+        "name": "Parque Nacional",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626357/se%C3%B1ales/preventivas/34_hjtdxr.png"
+    },
+    {
+        "name": "Proximidad de señal restrictiva",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626357/se%C3%B1ales/preventivas/35_nfnmqa.png"
+    },
+    {
+        "name": "Ancho limitado",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626357/se%C3%B1ales/preventivas/36_ugx481.png"
+    },
+    {
+        "name": "Altura limitada",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626357/se%C3%B1ales/preventivas/37_ilw9fy.png"
+    },
+    {
+        "name": "Maquinaria agrícola",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626357/se%C3%B1ales/preventivas/38_kex8tx.png"
+    },
+    {
+        "name": "Vuelos Bajos",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626357/se%C3%B1ales/preventivas/39_auvemz.png"
+    },
+    {
+        "name": "Proximidad de semáforo",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626357/se%C3%B1ales/preventivas/40_qnejzv.png"
+    },
+    {
+        "name": "Proyección de piedras",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626358/se%C3%B1ales/preventivas/41_selcrb.png"
+    },
+    {
+        "name": "Paso a nivel",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626358/se%C3%B1ales/preventivas/42_ds85f7.png"
+    },
+    {
+        "name": "Irregularidad continua",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626358/se%C3%B1ales/preventivas/43_b4jmxn.png"
+    },
+    {
+        "name": "Proximidad de señal restrictiva",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626358/se%C3%B1ales/preventivas/44_yfknx0.png"
+    },
+    {
+        "name": "Escuela",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626358/se%C3%B1ales/preventivas/45_nrwjwp.png"
+    },
+    {
+        "name": "Sentido de circulación",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626358/se%C3%B1ales/preventivas/46_aokgqg.png"
+    },
+    {
+        "name": "Paso a nivel con barrera",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626354/se%C3%B1ales/preventivas/47_pr8yyk.png"
+    },
+    {
+        "name": "Paso a nivel sin barrera",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626354/se%C3%B1ales/preventivas/48_sqmjjy.png"
+    }
+
+
+]

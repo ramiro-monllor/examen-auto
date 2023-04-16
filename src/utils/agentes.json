@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Atención",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626519/se%C3%B1ales/agentes/172_aks8if.png"
+    },
+    {
+        "name": "Seguir a la derecha o a la izquieda",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626519/se%C3%B1ales/agentes/173_bbbllb.png"
+    },
+    {
+        "name": "Parar de frente",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626519/se%C3%B1ales/agentes/174_oywkc7.png"
+    },
+    {
+        "name": "Detenerse",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626519/se%C3%B1ales/agentes/175_c9jbag.png"
+    },
+    {
+        "name": "Detener a la izquierda o a la derecha",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626519/se%C3%B1ales/agentes/176_wchyu8.png"
+    },
+    {
+        "name": "Pasar por detrás",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626519/se%C3%B1ales/agentes/177_urobct.png"
+    },
+    {
+        "name": "Avanzar",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626520/se%C3%B1ales/agentes/178_m3ipwu.png"
+    },
+    {
+        "name": "Activar a la derecha o a la izquieda",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626520/se%C3%B1ales/agentes/179_odvcbs.png"
+    },
+    {
+        "name": "Pasar por delante",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626520/se%C3%B1ales/agentes/180_y89z4t.png"
+    }
+]

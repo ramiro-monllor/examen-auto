@@ -1,0 +1,198 @@
+[
+    {
+        "name": "Primeros auxilios",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626462/se%C3%B1ales/informativas/106_iwthhn.png"
+    },
+    {
+        "name": "Aeropuerto",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626462/se%C3%B1ales/informativas/107_shzcy0.png"
+    },
+    {
+        "name": "Servicio mecánico",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626462/se%C3%B1ales/informativas/108_fsequ8.png"
+    },
+    {
+        "name": "Servicio telefónico",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626463/se%C3%B1ales/informativas/109_rytn4d.png"
+    },
+    {
+        "name": "Hotel",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626463/se%C3%B1ales/informativas/110_qu7ki0.png"
+    },
+    {
+        "name": "Restaurante",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626463/se%C3%B1ales/informativas/111_hmqlht.png"
+    },
+    {
+        "name": "Estación de servicio",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626463/se%C3%B1ales/informativas/112_rxk0fc.png"
+    },
+    {
+        "name": "Playa de estacionamiento",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626463/se%C3%B1ales/informativas/113_zm3acl.png"
+    },
+    {
+        "name": "Estacionamiento para casas rodantes",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626463/se%C3%B1ales/informativas/114_yzpct5.png"
+    },
+    {
+        "name": "Policía",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626463/se%C3%B1ales/informativas/115_tjhs7w.png"
+    },
+    {
+        "name": "Balneario",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626463/se%C3%B1ales/informativas/116_ys0gr7.png"
+    },
+    {
+        "name": "Playa",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626463/se%C3%B1ales/informativas/117_cz5k2b.png"
+    },
+    {
+        "name": "Zona de detención de ómnibus",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626463/se%C3%B1ales/informativas/118_iutewk.png"
+    },
+    {
+        "name": "Taxi",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626463/se%C3%B1ales/informativas/119_nf24nt.png"
+    },
+    {
+        "name": "Campamento",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626463/se%C3%B1ales/informativas/120_bo6yva.png"
+    },
+    {
+        "name": "Servicios sanitarios",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626464/se%C3%B1ales/informativas/121_rqwd6w.png"
+    },
+    {
+        "name": "Zona reservada para discapacitados",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626464/se%C3%B1ales/informativas/122_x3w3gu.png"
+    },
+    {
+        "name": "Correo",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626464/se%C3%B1ales/informativas/123_defmdg.png"
+    },
+    {
+        "name": "Gomería",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626464/se%C3%B1ales/informativas/124_gmk2ow.png"
+    },
+    {
+        "name": "Bar",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626464/se%C3%B1ales/informativas/125_czpqbt.png"
+    },
+    {
+        "name": "Punto panorámico",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626464/se%C3%B1ales/informativas/126_r0tsvb.png"
+    },
+    {
+        "name": "Telesférico",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626464/se%C3%B1ales/informativas/127_h36w6c.png"
+    },
+    {
+        "name": "Lugar para recreación y descanso",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626464/se%C3%B1ales/informativas/128_ekfgsy.png"
+    },
+    {
+        "name": "Hotel",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626464/se%C3%B1ales/informativas/129_ejijsh.png"
+    },
+    {
+        "name": "Terminal de ómnibus",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626464/se%C3%B1ales/informativas/130_ovuv3g.png"
+    },
+    {
+        "name": "Estación de ferrocarril",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626464/se%C3%B1ales/informativas/131_yuklq3.png"
+    },
+    {
+        "name": "Museo",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626465/se%C3%B1ales/informativas/132_sv56eq.png"
+    },
+    {
+        "name": "Estacionamiento permitido",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626465/se%C3%B1ales/informativas/133_gowbno.png"
+    },
+    {
+        "name": "Circulación obligatoria",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626465/se%C3%B1ales/informativas/134_sbjazt.png"
+    },
+    {
+        "name": "Circulación obligatoria",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626465/se%C3%B1ales/informativas/135_bsfhy1.png"
+    },
+    {
+        "name": "Direcciones permitidas",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626465/se%C3%B1ales/informativas/136_v7napd.png"
+    },
+    {
+        "name": "Direcciones permitidas",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626465/se%C3%B1ales/informativas/137_ckanzw.png"
+    },
+    {
+        "name": "Circulación obligatoria",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626465/se%C3%B1ales/informativas/138_dowu2g.png"
+    },
+    {
+        "name": "Direcciones permitidas",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626466/se%C3%B1ales/informativas/139_bgopfg.png"
+    },
+    {
+        "name": "Circulación obligatoria giro derecha",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626465/se%C3%B1ales/informativas/140_qjcr1c.png"
+    },
+    {
+        "name": "Autopista",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626465/se%C3%B1ales/informativas/141_q6rhok.png"
+    },
+    {
+        "name": "Designación de autopista",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626465/se%C3%B1ales/informativas/142_rhqx1s.png"
+    },
+    {
+        "name": "Indicación de recorridos o destinos",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626465/se%C3%B1ales/informativas/143_vtwage.png"
+    },
+    {
+        "name": "Nomenclatura urbana",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626466/se%C3%B1ales/informativas/144_oxsjvn.png"
+    },
+    {
+        "name": "Nomenclatura urbana",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626466/se%C3%B1ales/informativas/145_wmsbjs.png"
+    },
+    {
+        "name": "Camino o calle sin salida",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626466/se%C3%B1ales/informativas/146_bbzqne.png"
+    },
+    {
+        "name": "Camino o calle sin salida",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626462/se%C3%B1ales/informativas/147_hu88rv.png"
+    },
+    {
+        "name": "Velocidades máximas permitidas",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626462/se%C3%B1ales/informativas/148_tmmfgs.png"
+    },
+    {
+        "name": "Camino o paso transitable o no",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626462/se%C3%B1ales/informativas/149_xtz735.png"
+    },
+    {
+        "name": "Ruta Nacional",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626462/se%C3%B1ales/informativas/150_jgr7kl.png"
+    },
+    {
+        "name": "Ruta Provincial",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626462/se%C3%B1ales/informativas/151_t0fmtm.png"
+    },
+    {
+        "name": "Mojón kilométrico",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626462/se%C3%B1ales/informativas/152_sjmn88.png"
+    },
+    {
+        "name": "Desvio por cambio de sentido",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626462/se%C3%B1ales/informativas/153_ln9jnw.png"
+    },
+    {
+        "name": "Orientación (caminos primarios y secundarios)",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626462/se%C3%B1ales/informativas/154_qmeneg.png"
+    }
+]
