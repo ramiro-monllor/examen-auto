@@ -24,7 +24,13 @@ export const Auto = () => {
   const [respuestasCorrectas, setRespuestasCorrectas] = useState(0)
   const [mostrarBoton, setMostrarBoton] = useState(false)
 
-  const reglamentos = [preventivas, reglamentarias, informativas, transitorias, agentes]
+  const reglamentos = [
+    preventivas, preventivas, preventivas,
+    reglamentarias, reglamentarias, reglamentarias,
+    informativas, informativas, informativas,
+    transitorias, transitorias,
+    agentes
+  ]
 
   const handleOpen = () => {setOpen(true)};
 
@@ -78,7 +84,7 @@ const handleData = (event) => {
 }
 
 const randomReglament  = () => {
-  const reglamentoNumber = Math.floor(Math.random() * 5)
+  const reglamentoNumber = Math.floor(Math.random() * 12)
   setActiveReglamento(
     reglamentos[reglamentoNumber]
   )
