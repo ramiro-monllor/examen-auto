@@ -66,5 +66,9 @@
     {
         "name": "Conos",
         "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681626478/se%C3%B1ales/transitorias/171_yjfqot.png"
+    },
+    {
+        "name": "Hipoacusia",
+        "image": "https://res.cloudinary.com/dkbp6rk0s/image/upload/v1681789337/se%C3%B1ales/transitorias/hipoacusia_uxrqyb.png"
     }
 ]
