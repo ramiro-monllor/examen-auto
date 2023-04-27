@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from './Home.module.css'
 
-import { FaAngleDoubleRight, FaCarAlt, FaMotorcycle, FaTruck } from "react-icons/fa";
+import { FaAngleDoubleRight, FaCarAlt, FaMotorcycle, FaTruck, FaMapSigns, FaGraduationCap, FaFolderOpen } from "react-icons/fa";
 import { Link } from 'react-router-dom';
 import { Footer } from '../../elements/Footer/Footer';
 
@@ -24,8 +24,10 @@ export const Home = () => {
         <Link to="/auto">
           <div className={styles.divtipoexamen}>
             <div className={styles.divTextoA}>
-                <h2>Automotor</h2>
-              <FaCarAlt color="white" fontSize="large" />
+              {/* <h2>Automotor</h2> */}
+              {/* <FaCarAlt color="white" fontSize="large" /> */}
+              <h2>Señales</h2>
+              <FaMapSigns color="white" fontSize="large" />
             </div>
             
             <div className={styles.divTextoB}>
@@ -36,8 +38,10 @@ export const Home = () => {
 
         <div className={styles.divtipoexamenProximamente}>
           <div className={styles.divTextoA}>
-            <h2>Motocicleta</h2>
-            <FaMotorcycle color="white" fontSize="large" />
+            {/* <h2>Motocicleta</h2> */}
+            {/* <FaMotorcycle color="white" fontSize="large" /> */}
+            <h2>Teoria</h2>
+            <FaGraduationCap color="white" fontSize="large" />
           </div>
           
           <div className={styles.divTextoB}>
@@ -47,8 +51,10 @@ export const Home = () => {
 
         <div className={styles.divtipoexamenProximamente}>
           <div className={styles.divTextoA}>
-            <h2>Camiones</h2>
-            <FaTruck color="white" fontSize="large" />
+            {/* <h2>Camiones</h2> */}
+            {/* <FaTruck color="white" fontSize="large" /> */}
+            <h2>Contenido</h2>
+            <FaFolderOpen color="white" fontSize="large" />
           </div>
           
           <div className={styles.divTextoB}>
